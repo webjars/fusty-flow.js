@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>fusty-flow.js</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <name>Fusty-Flow.js</name>
     <description>WebJar for Fusty-Flow.js</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/fusty-flow.js</url>
         <connection>scm:git:https://github.com/webjars/fusty-flow.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/fusty-flow.js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>fusty-flow.js-1.1.0</tag>
     </scm>
     
     <build>
